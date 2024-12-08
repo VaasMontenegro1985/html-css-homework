@@ -1,0 +1,19 @@
+.page{
+    background-color: blueviolet;
+    font-family: Arial, serif;
+
+}
+.image{
+    width: 450px;
+    height: 300px;
+    border: 1px solid blue;
+}
+
+.header{
+    text-align: center;
+}
+
+.film{
+    padding: 5px;
+    margin: 10px;
+}
